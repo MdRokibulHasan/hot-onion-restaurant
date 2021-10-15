@@ -1,0 +1,23 @@
+.top-banner{
+    background-image: url('../images/bannerbackground.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:60vh;
+    width: 100%;
+    
+}
+.text-input{
+    
+  display: grid;
+  grid-template-rows: auto;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+#button-addon2{
+    width: 100px;
+    border-radius: 15px;
+    background-color: rgba(194, 29, 29, 0.952);
+    color:white;
+    font-weight: 600;
+}

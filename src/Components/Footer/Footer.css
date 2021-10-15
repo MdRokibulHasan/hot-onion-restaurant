@@ -1,0 +1,40 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.842);
+}
+
+.top{
+    display: flex;
+    justify-content:space-between;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 25px;
+    
+}
+.image img{
+    width: 180px;
+    height: 50px;
+   
+}
+.text{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    color: rgba(255, 255, 255, 0.74);
+    line-height:12px;
+    margin-right: 20px;
+    padding: 20px;
+    
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 20px;
+}
+.policy{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 50px;
+    padding-top: 12px;
+    
+}
